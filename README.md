@@ -1,11 +1,11 @@
 # html_practice
 
-I'm reading [this book](www.amazon.co.jp/dp/B07PS1ZJN6)
+I'm reading [this book](www.amazon.co.jp/dp/B07PS1ZJN6) since 4/2
 
 ## Progress bar
 
 
-- [``========================================100%``] Chapter 1 Webサイトの基本
+- [``========================================100%``] Chapter 1 Webサイトの基本 (Completed on 4/2)
 - [``=====================================    90%``] Chapter 2 HTMLの基本
 - [``_                                         0%``] Chapter 3 CSSの基本
 - [``_                                         0%``] Chapter 4 フルスクリーンのWebサイトの制作
