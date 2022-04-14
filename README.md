@@ -1,4 +1,9 @@
-# html_practice
+# Link to wiki
+
+Link to [wiki](https://github.com/Kasugano-Akane/html_practice/wiki)
+
+
+# progress
 
 I'm reading [this book](https://www.amazon.co.jp/dp/B07PS1ZJN6) since 4/2
 
