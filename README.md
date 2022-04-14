@@ -1,6 +1,6 @@
 # html_practice
 
-I'm reading [this book](www.amazon.co.jp/dp/B07PS1ZJN6) since 4/2
+I'm reading [this book](https://www.amazon.co.jp/dp/B07PS1ZJN6) since 4/2
 
 ## Progress bar
 
