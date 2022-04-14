@@ -7,7 +7,7 @@ I'm reading [this book](www.amazon.co.jp/dp/B07PS1ZJN6) since 4/2
 
 - [``========================================100%``] Chapter 1 Webサイトの基本 (Completed on 4/2)
 - [``========================================100%``] Chapter 2 HTMLの基本 (Completed on 4/11)
-- [``_                                         0%``] Chapter 3 CSSの基本
+- [``==========                               25%``] Chapter 3 CSSの基本
 - [``_                                         0%``] Chapter 4 フルスクリーンのWebサイトの制作
 - [``_                                         0%``] Chapter 5 2カラムのWebサイトの制作
 - [``_                                         0%``] Chapter 6 タイル型のWebサイトの制作
